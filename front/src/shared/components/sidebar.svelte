@@ -14,7 +14,7 @@
     <Separator class="mt-6 mb-5 rounded-full" />
 
 		<nav class="flex flex-grow flex-col">
-			<NavLink title="Chat General" href="/chat">
+			<NavLink title="Chat General" href="/">
 				<MessageSquare class="h-5 w-5"></MessageSquare>
 			</NavLink>
 

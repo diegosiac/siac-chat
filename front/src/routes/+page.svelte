@@ -2,9 +2,12 @@
 	import { Separator } from '@/ui/separator';
 
 	import { Particles } from '@/ui/particles';
+	import { Chat } from '@/features/chat/components';
 </script>
 
-<section class="w-full rounded-xl bg-background"></section>
+<section class="w-full rounded-xl bg-background">
+	<Chat />
+</section>
 
 <section
 	class="relative flex w-96 flex-col justify-between overflow-hidden rounded-xl bg-background p-3"
